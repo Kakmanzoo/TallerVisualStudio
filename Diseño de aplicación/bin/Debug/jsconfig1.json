@@ -1,0 +1,134 @@
+{
+  "tablas": [
+    {
+      "nombre": "clientes",
+      "campos": [
+        {
+          "nombre": "clidocumento",
+          "tipo": "INTEGER",
+          "restricciones": "PRIMARY KEY NOT NULL"
+        },
+        {
+          "nombre": "clinombre",
+          "tipo": "TEXT",
+          "restricciones": "NOT NULL"
+        },
+        {
+          "nombre": "clidireccion",
+          "tipo": "TEXT",
+          "restricciones": "NOT NULL"
+        },
+        {
+          "nombre": "clitelefono",
+          "tipo": "TEXT",
+          "restricciones": "NOT NULL"
+        },
+        {
+          "nombre": "clicorreo",
+          "tipo": "TEXT",
+          "restricciones": "NOT NULL"
+        }
+      ]
+    },
+    {
+      "nombre": "facturas",
+      "campos": [
+        {
+          "nombre": "facnumero",
+          "tipo": "INTEGER",
+          "restricciones": "PRIMARY KEY NOT NULL"
+        },
+        {
+          "nombre": "facfecha",
+          "tipo": "DATE",
+          "restricciones": "NOT NULL"
+        },
+        {
+          "nombre": "faccliente",
+          "tipo": "INTEGER",
+          "restricciones": "NOT NULL"
+        },
+        {
+          "nombre": "facvalortotal",
+          "tipo": "NUMERIC",
+          "restricciones": "NOT NULL"
+        },
+        {
+          "nombre": "facvendedor",
+          "tipo": "INTEGER",
+          "restricciones": "NOT NULL"
+        },
+        {
+          "nombre": "clifk",
+          "tipo": "FOREIGN KEY",
+          "restricciones": "REFERENCES clientes(clidocumento)"
+        }
+      ]
+    },
+    {
+      "nombre": "facturadetalle",
+      "campos": [
+        {
+          "nombre": "facnumero",
+          "tipo": "INTEGER",
+          "restricciones": "NOT NULL"
+        },
+        {
+          "nombre": "facproducto",
+          "tipo": "INTEGER",
+          "restricciones": "NOT NULL"
+        },
+        {
+          "nombre": "faccantidad",
+          "tipo": "INTEGER",
+          "restricciones": "NOT NULL"
+        },
+        {
+          "nombre": "pk",
+          "tipo": "PRIMARY KEY",
+          "restricciones": "(facnumero, facproducto)"
+        }
+      ]
+    },
+    {
+      "nombre": "productos",
+      "campos": [
+        {
+          "nombre": "codigo",
+          "tipo": "INTEGER",
+          "restricciones": "PRIMARY KEY NOT NULL"
+        },
+        {
+          "nombre": "nombre",
+          "tipo": "TEXT",
+          "restricciones": "NOT NULL"
+        },
+        {
+          "nombre": "precio",
+          "tipo": "NUMERIC",
+          "restricciones": "NOT NULL"
+        },
+        {
+          "nombre": "cantidad",
+          "tipo": "INTEGER",
+          "restricciones": "NOT NULL"
+        }
+      ]
+    },
+    {
+      "nombre": "vendedores",
+      "campos": [
+        {
+          "nombre": "venuusuario",
+          "tipo": "TEXT",
+          "restricciones": "NOT NULL"
+        },
+        {
+          "nombre": "venpassword",
+          "tipo": "TEXT",
+          "restricciones": "NOT NULL"
+        }
+      ]
+    }
+  ]
+}

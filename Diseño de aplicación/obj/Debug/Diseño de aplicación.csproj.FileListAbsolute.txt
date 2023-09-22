@@ -1,0 +1,64 @@
+C:\Users\02\source\repos\Diseño de aplicación\Diseño de aplicación\bin\Debug\Diseño de aplicación.exe.config
+C:\Users\02\source\repos\Diseño de aplicación\Diseño de aplicación\bin\Debug\Diseño de aplicación.exe
+C:\Users\02\source\repos\Diseño de aplicación\Diseño de aplicación\bin\Debug\Diseño de aplicación.pdb
+C:\Users\02\source\repos\Diseño de aplicación\Diseño de aplicación\obj\Debug\Diseño de aplicación.csproj.AssemblyReference.cache
+C:\Users\02\source\repos\Diseño de aplicación\Diseño de aplicación\obj\Debug\Diseño de aplicación.csproj.SuggestedBindingRedirects.cache
+C:\Users\02\source\repos\Diseño de aplicación\Diseño de aplicación\obj\Debug\Diseño_de_aplicación.Form1.resources
+C:\Users\02\source\repos\Diseño de aplicación\Diseño de aplicación\obj\Debug\Diseño_de_aplicación.Menu_de_sistema.resources
+C:\Users\02\source\repos\Diseño de aplicación\Diseño de aplicación\obj\Debug\Diseño_de_aplicación.Properties.Resources.resources
+C:\Users\02\source\repos\Diseño de aplicación\Diseño de aplicación\obj\Debug\Diseño de aplicación.csproj.GenerateResource.cache
+C:\Users\02\source\repos\Diseño de aplicación\Diseño de aplicación\obj\Debug\Diseño de aplicación.csproj.CoreCompileInputs.cache
+C:\Users\02\source\repos\Diseño de aplicación\Diseño de aplicación\obj\Debug\Diseño de aplicación.exe
+C:\Users\02\source\repos\Diseño de aplicación\Diseño de aplicación\obj\Debug\Diseño de aplicación.pdb
+C:\Users\02\source\repos\Diseño de aplicación\Diseño de aplicación\obj\Debug\Diseño_de_aplicación.Registro.resources
+C:\Users\02\source\repos\Diseño de aplicación\Diseño de aplicación\obj\Debug\Diseño_de_aplicación.Form4.resources
+C:\Users\57314\Downloads\Diseño de aplicación\bin\Debug\Diseño de aplicación.exe.config
+C:\Users\57314\Downloads\Diseño de aplicación\bin\Debug\Diseño de aplicación.exe
+C:\Users\57314\Downloads\Diseño de aplicación\bin\Debug\Diseño de aplicación.pdb
+C:\Users\57314\Downloads\Diseño de aplicación\obj\Debug\Diseño de aplicación.csproj.AssemblyReference.cache
+C:\Users\57314\Downloads\Diseño de aplicación\obj\Debug\Diseño_de_aplicación.Form1.resources
+C:\Users\57314\Downloads\Diseño de aplicación\obj\Debug\Diseño_de_aplicación.Menu_de_sistema.resources
+C:\Users\57314\Downloads\Diseño de aplicación\obj\Debug\Diseño_de_aplicación.Registro.resources
+C:\Users\57314\Downloads\Diseño de aplicación\obj\Debug\Diseño_de_aplicación.Form4.resources
+C:\Users\57314\Downloads\Diseño de aplicación\obj\Debug\Diseño_de_aplicación.Properties.Resources.resources
+C:\Users\57314\Downloads\Diseño de aplicación\obj\Debug\Diseño de aplicación.csproj.GenerateResource.cache
+C:\Users\57314\Downloads\Diseño de aplicación\obj\Debug\Diseño de aplicación.csproj.CoreCompileInputs.cache
+C:\Users\57314\Downloads\Diseño de aplicación\obj\Debug\Diseño de aplicación.exe
+C:\Users\57314\Downloads\Diseño de aplicación\obj\Debug\Diseño de aplicación.pdb
+C:\Users\57314\Downloads\Diseño de aplicación\obj\Debug\Diseño_de_aplicación.Form5.resources
+C:\Users\02\Downloads\Diseño de aplicación\bin\Debug\Diseño de aplicación.exe.config
+C:\Users\02\Downloads\Diseño de aplicación\bin\Debug\Diseño de aplicación.exe
+C:\Users\02\Downloads\Diseño de aplicación\bin\Debug\Diseño de aplicación.pdb
+C:\Users\02\Downloads\Diseño de aplicación\obj\Debug\Diseño de aplicación.csproj.AssemblyReference.cache
+C:\Users\02\Downloads\Diseño de aplicación\obj\Debug\Diseño de aplicación.csproj.SuggestedBindingRedirects.cache
+C:\Users\02\Downloads\Diseño de aplicación\obj\Debug\Diseño_de_aplicación.Form1.resources
+C:\Users\02\Downloads\Diseño de aplicación\obj\Debug\Diseño_de_aplicación.Menu_de_sistema.resources
+C:\Users\02\Downloads\Diseño de aplicación\obj\Debug\Diseño_de_aplicación.Registro.resources
+C:\Users\02\Downloads\Diseño de aplicación\obj\Debug\Diseño_de_aplicación.Form4.resources
+C:\Users\02\Downloads\Diseño de aplicación\obj\Debug\Diseño_de_aplicación.Form5.resources
+C:\Users\02\Downloads\Diseño de aplicación\obj\Debug\Diseño_de_aplicación.Properties.Resources.resources
+C:\Users\02\Downloads\Diseño de aplicación\obj\Debug\Diseño de aplicación.csproj.GenerateResource.cache
+C:\Users\02\Downloads\Diseño de aplicación\obj\Debug\Diseño de aplicación.csproj.CoreCompileInputs.cache
+C:\Users\02\Downloads\Diseño de aplicación\obj\Debug\Diseño de aplicación.exe
+C:\Users\02\Downloads\Diseño de aplicación\obj\Debug\Diseño de aplicación.pdb
+C:\Users\02\Downloads\Diseño de aplicación\obj\Debug\Diseño_de_aplicación.Facturar.resources
+C:\Users\Equipo\OneDrive\Documentos\Trabajos Programacion UDC\Modulo 2.2\Diseño de aplicación\bin\Debug\Diseño de aplicación.exe.config
+C:\Users\Equipo\OneDrive\Documentos\Trabajos Programacion UDC\Modulo 2.2\Diseño de aplicación\bin\Debug\Diseño de aplicación.exe
+C:\Users\Equipo\OneDrive\Documentos\Trabajos Programacion UDC\Modulo 2.2\Diseño de aplicación\bin\Debug\Diseño de aplicación.pdb
+C:\Users\Equipo\OneDrive\Documentos\Trabajos Programacion UDC\Modulo 2.2\Diseño de aplicación\obj\Debug\Diseño de aplicación.csproj.AssemblyReference.cache
+C:\Users\Equipo\OneDrive\Documentos\Trabajos Programacion UDC\Modulo 2.2\Diseño de aplicación\obj\Debug\Diseño_de_aplicación.Form1.resources
+C:\Users\Equipo\OneDrive\Documentos\Trabajos Programacion UDC\Modulo 2.2\Diseño de aplicación\obj\Debug\Diseño_de_aplicación.Menu_de_sistema.resources
+C:\Users\Equipo\OneDrive\Documentos\Trabajos Programacion UDC\Modulo 2.2\Diseño de aplicación\obj\Debug\Diseño_de_aplicación.Registro.resources
+C:\Users\Equipo\OneDrive\Documentos\Trabajos Programacion UDC\Modulo 2.2\Diseño de aplicación\obj\Debug\Diseño_de_aplicación.Form4.resources
+C:\Users\Equipo\OneDrive\Documentos\Trabajos Programacion UDC\Modulo 2.2\Diseño de aplicación\obj\Debug\Diseño_de_aplicación.Form5.resources
+C:\Users\Equipo\OneDrive\Documentos\Trabajos Programacion UDC\Modulo 2.2\Diseño de aplicación\obj\Debug\Diseño_de_aplicación.Facturar.resources
+C:\Users\Equipo\OneDrive\Documentos\Trabajos Programacion UDC\Modulo 2.2\Diseño de aplicación\obj\Debug\Diseño_de_aplicación.Properties.Resources.resources
+C:\Users\Equipo\OneDrive\Documentos\Trabajos Programacion UDC\Modulo 2.2\Diseño de aplicación\obj\Debug\Diseño de aplicación.csproj.GenerateResource.cache
+C:\Users\Equipo\OneDrive\Documentos\Trabajos Programacion UDC\Modulo 2.2\Diseño de aplicación\obj\Debug\Diseño de aplicación.csproj.CoreCompileInputs.cache
+C:\Users\Equipo\OneDrive\Documentos\Trabajos Programacion UDC\Modulo 2.2\Diseño de aplicación\obj\Debug\Diseño de aplicación.exe
+C:\Users\Equipo\OneDrive\Documentos\Trabajos Programacion UDC\Modulo 2.2\Diseño de aplicación\obj\Debug\Diseño de aplicación.pdb
+C:\Users\Equipo\OneDrive\Documentos\Trabajos Programacion UDC\Modulo 2.2\Diseño de aplicación\bin\Debug\BaseDeDatos\Database1.mdf
+C:\Users\Equipo\OneDrive\Documentos\Trabajos Programacion UDC\Modulo 2.2\Diseño de aplicación\bin\Debug\BaseDeDatos\Database1_log.ldf
+C:\Users\Equipo\OneDrive\Documentos\Trabajos Programacion UDC\Modulo 2.2\Diseño de aplicación\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Equipo\OneDrive\Documentos\Trabajos Programacion UDC\Modulo 2.2\Diseño de aplicación\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Equipo\OneDrive\Documentos\Trabajos Programacion UDC\Modulo 2.2\Diseño de aplicación\obj\Debug\Diseño de aplicación.csproj.CopyComplete
